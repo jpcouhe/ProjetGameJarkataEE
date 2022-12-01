@@ -1,4 +1,4 @@
-package com.example.backofficefilrouge.utilitaire;
+package com.example.demo_jarkataee.utilities;
 
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
